@@ -1,3 +1,3 @@
 Please see the app at:
 
-https://github.com/Nixteridakis/Calculator.git
+https://nixteridakis.github.io/Calculator/
