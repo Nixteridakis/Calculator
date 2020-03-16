@@ -1,3 +1,4 @@
+## Calculator
 
 You can view the app here: https://nixteridakis.github.io/Calculator/
 
